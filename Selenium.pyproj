@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="forms.py" />
     <Compile Include="teams.py" />
     <Compile Include="Selenium.py" />
   </ItemGroup>
